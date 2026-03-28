@@ -27,6 +27,11 @@
               {
                 "glob": "**/*",
                 "input": "public"
+              },
+              {
+                "glob": "**/*",
+                "input": "src/assets",
+                "output": "assets"
               }
             ],
             "stylePreprocessorOptions": {
@@ -36,15 +41,7 @@
             "optimization": {
               "fonts": false
             },
-            "allowedCommonJsDependencies": ["gsap"],
-            "server": "src/main.server.ts",
-            "outputMode": "server",
-            "security": {
-              "allowedHosts": []
-            },
-            "ssr": {
-              "entry": "src/server.ts"
-            }
+            "allowedCommonJsDependencies": ["gsap"]
           },
           "configurations": {
             "production": {
