@@ -1,0 +1,19 @@
+@use 'styles/reset';
+@use 'styles/variables' as *;
+@use 'styles/typography';
+@use 'styles/animations';
+
+html {
+  background-color: $bg-primary;
+  color: $text-primary;
+  font-family: $font-family-body;
+  font-size: 16px;
+}
+
+body {
+  min-height: 100vh;
+}
+
+section {
+  position: relative;
+}

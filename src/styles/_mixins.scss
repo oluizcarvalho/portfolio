@@ -1,0 +1,61 @@
+@use 'variables' as *;
+@use 'breakpoints' as *;
+
+@mixin glass-card {
+  background: $bg-glass;
+  backdrop-filter: blur(12px);
+  border: 1px solid $border-subtle;
+  border-radius: $radius-lg;
+}
+
+@mixin gradient-text {
+  background: $gradient-primary;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+@mixin gradient-border {
+  position: relative;
+
+  &::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    border-radius: inherit;
+    padding: 1px;
+    background: $gradient-primary;
+    mask:
+      linear-gradient(#fff 0 0) content-box,
+      linear-gradient(#fff 0 0);
+    mask-composite: exclude;
+    pointer-events: none;
+  }
+}
+
+@mixin section-padding {
+  padding: $space-4xl $space-lg;
+  max-width: 1200px;
+  margin: 0 auto;
+
+  @include mobile {
+    padding: $space-3xl $space-md;
+  }
+}
+
+@mixin hover-lift {
+  transition:
+    transform $transition-base,
+    box-shadow $transition-base;
+
+  &:hover {
+    transform: translateY(-4px);
+    box-shadow: $glow-violet;
+  }
+}
+
+@mixin flex-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
