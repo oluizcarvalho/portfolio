@@ -1,0 +1,120 @@
+{
+  "nav": {
+    "about": "Sobre",
+    "skills": "Habilidades",
+    "experience": "Experiência",
+    "projects": "Projetos",
+    "education": "Formação",
+    "contact": "Contato"
+  },
+  "hero": {
+    "greeting": "Olá, eu sou",
+    "name": "Luiz André Carvalho",
+    "role": "Engenheiro de Plataforma | Arquiteto Frontend | DevOps",
+    "cta": "Veja meu trabalho",
+    "scrollDown": "Rolar para baixo"
+  },
+  "about": {
+    "title": "Sobre Mim",
+    "subtitle": "Conheça um pouco mais sobre mim",
+    "bio": "Sou Engenheiro de Plataforma na Mottu com mais de 6 anos de experiência construindo aplicações web escaláveis e plataformas para desenvolvedores. Minha trajetória vai do desenvolvimento full-stack à arquitetura frontend e engenharia de plataforma, o que me dá uma visão única de todo o ciclo de entrega de software. Sou especialista em projetar Plataformas Internas de Desenvolvimento (IDP), Design Systems e arquiteturas de Micro Frontends que capacitam times de engenharia a entregar mais rápido e com confiança. Tenho paixão por experiência do desenvolvedor, automação de CI/CD e pela criação de ferramentas que conectam desenvolvimento e operações.",
+    "stats": {
+      "yearsExp": "Anos de Experiência",
+      "projects": "Projetos Entregues",
+      "companies": "Empresas"
+    },
+    "downloadCv": "Entre em Contato"
+  },
+  "skills": {
+    "title": "Habilidades",
+    "subtitle": "Tecnologias e ferramentas com as quais trabalho",
+    "categories": {
+      "all": "Todas",
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "devops": "DevOps",
+      "tools": "Ferramentas"
+    }
+  },
+  "experience": {
+    "title": "Experiência",
+    "subtitle": "Minha trajetória profissional",
+    "mottu_pe": {
+      "role": "Engenheiro de Plataforma",
+      "period": "Out 2024 - Presente",
+      "descriptions": "Arquitetura da Plataforma Interna de Desenvolvimento (IDP) para otimizar fluxos de trabalho. Design System corporativo e arquiteturas Micro Frontend. Pipelines CI/CD para Angular, Flutter Web e React. Ferramentas LowCode com IA para automação interna."
+    },
+    "mottu_tl": {
+      "role": "Tech Lead Frontend",
+      "period": "Mar 2023 - Out 2024",
+      "descriptions": "Liderança e mentoria do time frontend, estabelecendo boas práticas e padrões de code review. Condução da migração Angular melhorando performance. Sistemas em tempo real com Redis Pub/Sub e Socket.IO. Dashboards de observabilidade com Datadog."
+    },
+    "mottu_pfl": {
+      "role": "Líder de Plataforma Frontend",
+      "period": "Jan 2022 - Mar 2023",
+      "descriptions": "Criação de boilerplates SPA e Micro Frontend para padronização de projetos. Bibliotecas de componentes Angular compartilhadas. Implementação de SSO e internacionalização (i18n). Arquitetura e suporte técnico para times de produto."
+    },
+    "mottu_fd": {
+      "role": "Desenvolvedor Frontend",
+      "period": "Mar 2021 - Dez 2021",
+      "descriptions": "Desenvolvimento de aplicações com Angular 12, Blazor (WebAssembly) e MVC Razor. Componentes UI interativos e views server-rendered. Colaboração em times ágeis com Scrum e Kanban."
+    },
+    "predict": {
+      "role": "Desenvolvedor Full Stack",
+      "period": "Nov 2019 - Fev 2021",
+      "descriptions": "Plataforma SaaS para nutricionistas usando MEAN stack (MongoDB, Express, Angular, Node.js). Modelagem do banco MongoDB otimizada para performance. Colaboração direta com stakeholders para traduzir necessidades de negócio."
+    }
+  },
+  "projects": {
+    "title": "Projetos",
+    "subtitle": "Alguns dos meus trabalhos recentes",
+    "viewCode": "Ver Código",
+    "viewLive": "Ver Online",
+    "egress_system": {
+      "title": "Sistema de Egressos",
+      "description": "Plataforma de gestão de egressos da Universidade Federal de Uberlândia (UFU), construída com Angular 18 para rastreamento e conexão de graduados."
+    },
+    "govbr_ds_angular": {
+      "title": "Design System GovBR",
+      "description": "Implementação Angular do Design System do Governo Brasileiro (GovBR-DS), garantindo conformidade com padrões de acessibilidade e usabilidade."
+    },
+    "the_hit_movie": {
+      "title": "The Hit Movie",
+      "description": "Progressive Web App para descoberta de filmes com busca, avaliações e recomendações usando a API do IMDB com Material UI."
+    },
+    "quizz_attack_on_titan": {
+      "title": "Quiz Attack on Titan",
+      "description": "Quiz interativo sobre o anime construído com Next.js e Styled Components, com perguntas dinâmicas e sistema de pontuação."
+    },
+    "finansys": {
+      "title": "FinanSys",
+      "description": "Aplicação CRUD avançada de gestão financeira com gráficos dinâmicos, relatórios e gerenciamento de categorias com Angular e PrimeNG."
+    },
+    "mfe_container": {
+      "title": "MFE Container",
+      "description": "Container de Micro Frontend demonstrando arquitetura Module Federation com módulos Angular implantáveis independentemente."
+    }
+  },
+  "education": {
+    "title": "Formação",
+    "subtitle": "Minha formação acadêmica",
+    "ufu": {
+      "degree": "Bacharelado",
+      "field": "Sistemas de Informação",
+      "period": "2019 - 2025",
+      "university": "Universidade Federal de Uberlândia (UFU)"
+    }
+  },
+  "contact": {
+    "title": "Contato",
+    "subtitle": "Vamos trabalhar juntos",
+    "emailLabel": "E-mail",
+    "locationLabel": "Localização",
+    "location": "Uberlândia, MG - Brasil",
+    "socialLabel": "Me encontre em"
+  },
+  "footer": {
+    "madeWith": "Feito com Angular & GSAP",
+    "rights": "Todos os direitos reservados."
+  }
+}

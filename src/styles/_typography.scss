@@ -1,0 +1,44 @@
+@use 'variables' as *;
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: $font-family-heading;
+  color: $text-heading;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+h1 {
+  font-size: $font-size-hero;
+}
+
+h2 {
+  font-size: $font-size-4xl;
+}
+
+h3 {
+  font-size: $font-size-2xl;
+}
+
+h4 {
+  font-size: $font-size-xl;
+}
+
+p {
+  line-height: 1.7;
+  color: $text-primary;
+}
+
+code,
+pre {
+  font-family: $font-family-mono;
+}
+
+::selection {
+  background: rgba($accent-violet, 0.3);
+  color: $text-heading;
+}

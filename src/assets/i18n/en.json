@@ -1,0 +1,120 @@
+{
+  "nav": {
+    "about": "About",
+    "skills": "Skills",
+    "experience": "Experience",
+    "projects": "Projects",
+    "education": "Education",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hello, I'm",
+    "name": "Luiz André Carvalho",
+    "role": "Platform Engineer | Frontend Architect | DevOps",
+    "cta": "See my work",
+    "scrollDown": "Scroll Down"
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "Get to know me better",
+    "bio": "I'm a Platform Engineer at Mottu with over 6 years of experience building scalable web applications and developer platforms. My journey spans from full-stack development to frontend architecture and platform engineering, giving me a unique perspective on the entire software delivery lifecycle. I specialize in designing Internal Developer Platforms, Design Systems, and Micro Frontend architectures that empower engineering teams to ship faster with confidence. I'm passionate about developer experience, CI/CD automation, and creating tools that bridge the gap between development and operations.",
+    "stats": {
+      "yearsExp": "Years of Experience",
+      "projects": "Projects Delivered",
+      "companies": "Companies"
+    },
+    "downloadCv": "Get in Touch"
+  },
+  "skills": {
+    "title": "Skills",
+    "subtitle": "Technologies and tools I work with",
+    "categories": {
+      "all": "All",
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "devops": "DevOps",
+      "tools": "Tools"
+    }
+  },
+  "experience": {
+    "title": "Experience",
+    "subtitle": "My professional journey",
+    "mottu_pe": {
+      "role": "Platform Engineer",
+      "period": "Oct 2024 - Present",
+      "descriptions": "Architecting the Internal Developer Platform (IDP) for streamlined workflows. Designing the company-wide Design System and Micro Frontend architectures. Engineering CI/CD pipelines for Angular, Flutter Web, and React. Developing LowCode AI-powered tools for internal automation."
+    },
+    "mottu_tl": {
+      "role": "Tech Lead Frontend",
+      "period": "Mar 2023 - Oct 2024",
+      "descriptions": "Led and mentored the frontend team, establishing best practices and code review standards. Spearheaded Angular migration improving performance. Implemented real-time systems with Redis Pub/Sub and Socket.IO. Built observability dashboards using Datadog."
+    },
+    "mottu_pfl": {
+      "role": "Platform Frontend Lead",
+      "period": "Jan 2022 - Mar 2023",
+      "descriptions": "Created SPA and Micro Frontend boilerplates that standardized project scaffolding. Developed shared Angular component libraries. Implemented SSO authentication and internationalization (i18n). Led architecture and technical support for product teams."
+    },
+    "mottu_fd": {
+      "role": "Frontend Developer",
+      "period": "Mar 2021 - Dec 2021",
+      "descriptions": "Developed web applications using Angular 12, Blazor (WebAssembly) and MVC Razor. Built interactive UI components and server-rendered views. Collaborated in Agile teams using Scrum and Kanban methodologies."
+    },
+    "predict": {
+      "role": "Full Stack Developer",
+      "period": "Nov 2019 - Feb 2021",
+      "descriptions": "Developed a SaaS platform for nutritionists using the MEAN stack (MongoDB, Express, Angular, Node.js). Designed the MongoDB database schema optimized for performance. Collaborated with stakeholders to translate business needs into technical solutions."
+    }
+  },
+  "projects": {
+    "title": "Projects",
+    "subtitle": "Some of my recent work",
+    "viewCode": "View Code",
+    "viewLive": "View Live",
+    "egress_system": {
+      "title": "Egress System",
+      "description": "Alumni management platform for the Federal University of Uberlândia (UFU), built with Angular 18 for tracking and connecting graduates."
+    },
+    "govbr_ds_angular": {
+      "title": "GovBR Design System",
+      "description": "Angular implementation of the Brazilian Government Design System (GovBR-DS), ensuring accessibility and usability standards compliance."
+    },
+    "the_hit_movie": {
+      "title": "The Hit Movie",
+      "description": "A Progressive Web App for movie discovery with search, ratings and recommendations powered by the IMDB API with Material UI."
+    },
+    "quizz_attack_on_titan": {
+      "title": "Attack on Titan Quiz",
+      "description": "An interactive anime quiz built with Next.js and Styled Components, featuring dynamic questions and score tracking."
+    },
+    "finansys": {
+      "title": "FinanSys",
+      "description": "Advanced financial management CRUD application with dynamic charts, reports, and category management built with Angular and PrimeNG."
+    },
+    "mfe_container": {
+      "title": "MFE Container",
+      "description": "Micro Frontend container application demonstrating Module Federation architecture with independently deployable Angular modules."
+    }
+  },
+  "education": {
+    "title": "Education",
+    "subtitle": "My academic background",
+    "ufu": {
+      "degree": "Bachelor's Degree",
+      "field": "Information Systems",
+      "period": "2019 - 2025",
+      "university": "Federal University of Uberlândia (UFU)"
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Let's work together",
+    "emailLabel": "Email",
+    "locationLabel": "Location",
+    "location": "Uberlândia, MG - Brazil",
+    "socialLabel": "Find me on"
+  },
+  "footer": {
+    "madeWith": "Made with Angular & GSAP",
+    "rights": "All rights reserved."
+  }
+}
