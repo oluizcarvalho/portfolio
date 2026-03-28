@@ -75,12 +75,16 @@ Platform Engineer at **Mottu** with 6+ years of experience building scalable web
 ### GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=oluizcarvalho&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=6c63ff&icon_color=00d4ff&text_color=e4e4ed&ring_color=6c63ff" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluizcarvalho&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=6c63ff&text_color=e4e4ed" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=oluizcarvalho&theme=tokyonight&hide_border=true&background=0A0A0F&ring=6C63FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=E4E4ED&dates=8888A4" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=oluizcarvalho&theme=tokyonight&hide_border=true&background=0A0A0F&ring=6C63FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=E4E4ED&dates=8888A4" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oluizcarvalho&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oluizcarvalho&theme=tokyonight" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=oluizcarvalho&theme=tokyonight" />
 </div>
 
 ---
