@@ -70,29 +70,29 @@
     "subtitle": "Alguns dos meus trabalhos recentes",
     "viewCode": "Ver Código",
     "viewLive": "Ver Online",
-    "egress_system": {
-      "title": "Sistema de Egressos",
-      "description": "Plataforma de gestão de egressos da Universidade Federal de Uberlândia (UFU), construída com Angular 18 para rastreamento e conexão de graduados."
+    "ng_architect_cli": {
+      "title": "NG Architect CLI",
+      "description": "CLI que gera projetos Angular prontos para produção com Micro Frontends, Design System, pipelines CI/CD, SSO e i18n pré-configurados. Sua mini Internal Developer Platform."
+    },
+    "mfe_playground": {
+      "title": "MFE Playground",
+      "description": "Playground multi-framework de Micro Frontends com Angular, React e Vue orquestrados via Native Federation, com dashboard de métricas em tempo real."
+    },
+    "ngx_signal_store": {
+      "title": "NGX Signal Store",
+      "description": "Biblioteca leve de state management para Angular 21+ usando Signals puros. Entity stores, computed helpers, devtools com time-travel — sem NgRx, sem Redux."
     },
     "govbr_ds_angular": {
-      "title": "Design System GovBR",
+      "title": "GovBR Design System",
       "description": "Implementação Angular do Design System do Governo Brasileiro (GovBR-DS), garantindo conformidade com padrões de acessibilidade e usabilidade."
     },
     "the_hit_movie": {
       "title": "The Hit Movie",
       "description": "Progressive Web App para descoberta de filmes com busca, avaliações e recomendações usando a API do IMDB com Material UI."
     },
-    "quizz_attack_on_titan": {
-      "title": "Quiz Attack on Titan",
-      "description": "Quiz interativo sobre o anime construído com Next.js e Styled Components, com perguntas dinâmicas e sistema de pontuação."
-    },
-    "finansys": {
-      "title": "FinanSys",
-      "description": "Aplicação CRUD avançada de gestão financeira com gráficos dinâmicos, relatórios e gerenciamento de categorias com Angular e PrimeNG."
-    },
-    "mfe_container": {
-      "title": "MFE Container",
-      "description": "Container de Micro Frontend demonstrando arquitetura Module Federation com módulos Angular implantáveis independentemente."
+    "egress_system": {
+      "title": "Egress System",
+      "description": "Plataforma de gestão de egressos da Universidade Federal de Uberlândia (UFU), construída com Angular 18 para rastreamento e conexão de graduados."
     }
   },
   "education": {
