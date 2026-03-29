@@ -70,9 +70,17 @@
     "subtitle": "Some of my recent work",
     "viewCode": "View Code",
     "viewLive": "View Live",
-    "egress_system": {
-      "title": "Egress System",
-      "description": "Alumni management platform for the Federal University of Uberlândia (UFU), built with Angular 18 for tracking and connecting graduates."
+    "ng_architect_cli": {
+      "title": "NG Architect CLI",
+      "description": "CLI tool that scaffolds production-ready Angular projects with Micro Frontends, Design System, CI/CD pipelines, SSO, and i18n pre-configured. Your mini Internal Developer Platform."
+    },
+    "mfe_playground": {
+      "title": "MFE Playground",
+      "description": "Multi-framework Micro Frontend playground with Angular, React, and Vue remotes orchestrated via Native Federation, featuring a real-time metrics dashboard."
+    },
+    "ngx_signal_store": {
+      "title": "NGX Signal Store",
+      "description": "Lightweight state management library for Angular 21+ using pure Signals. Entity stores, computed helpers, devtools with time-travel — no NgRx, no Redux."
     },
     "govbr_ds_angular": {
       "title": "GovBR Design System",
@@ -82,17 +90,9 @@
       "title": "The Hit Movie",
       "description": "A Progressive Web App for movie discovery with search, ratings and recommendations powered by the IMDB API with Material UI."
     },
-    "quizz_attack_on_titan": {
-      "title": "Attack on Titan Quiz",
-      "description": "An interactive anime quiz built with Next.js and Styled Components, featuring dynamic questions and score tracking."
-    },
-    "finansys": {
-      "title": "FinanSys",
-      "description": "Advanced financial management CRUD application with dynamic charts, reports, and category management built with Angular and PrimeNG."
-    },
-    "mfe_container": {
-      "title": "MFE Container",
-      "description": "Micro Frontend container application demonstrating Module Federation architecture with independently deployable Angular modules."
+    "egress_system": {
+      "title": "Egress System",
+      "description": "Alumni management platform for the Federal University of Uberlândia (UFU), built with Angular 18 for tracking and connecting graduates."
     }
   },
   "education": {
