@@ -93,6 +93,10 @@
     "egress_system": {
       "title": "Egress System",
       "description": "Plataforma de gestão de egressos da Universidade Federal de Uberlândia (UFU), construída com Angular 18 para rastreamento e conexão de graduados."
+    },
+    "ui_context": {
+      "title": "UI Context",
+      "description": "Servidor MCP que extrai metadados de componentes de design systems React e Angular, permitindo que assistentes de IA como Claude e Cursor entendam profundamente sua biblioteca de componentes — props, exemplos, design tokens e muito mais."
     }
   },
   "education": {

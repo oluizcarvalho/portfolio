@@ -49,4 +49,12 @@ export const PROJECTS: Project[] = [
     githubUrl: 'https://github.com/oluizcarvalho/egress-system',
     featured: true,
   },
+  {
+    id: 'ui-context',
+    titleKey: 'projects.ui_context.title',
+    descriptionKey: 'projects.ui_context.description',
+    techStack: ['TypeScript', 'Node.js', 'MCP', 'react-docgen', 'ts-morph'],
+    githubUrl: 'https://github.com/oluizcarvalho/ui-context',
+    featured: true,
+  },
 ];

@@ -93,6 +93,10 @@
     "egress_system": {
       "title": "Egress System",
       "description": "Alumni management platform for the Federal University of Uberlândia (UFU), built with Angular 18 for tracking and connecting graduates."
+    },
+    "ui_context": {
+      "title": "UI Context",
+      "description": "MCP server that extracts component metadata from React and Angular design systems, enabling AI assistants like Claude and Cursor to deeply understand your component library — props, examples, design tokens and all."
     }
   },
   "education": {
